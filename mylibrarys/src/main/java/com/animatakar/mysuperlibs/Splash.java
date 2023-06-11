@@ -1,5 +1,7 @@
 package com.animatakar.mysuperlibs;
 
+import static com.animatakar.mysuperlibs.NextAnimation.Stop_Preload_google_interstitial_fail_others;
+
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
 import android.content.Context;
@@ -9,6 +11,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.telephony.TelephonyManager;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.applovin.mediation.MaxAd;
@@ -17,6 +20,11 @@ import com.applovin.mediation.MaxError;
 import com.applovin.mediation.ads.MaxInterstitialAd;
 import com.facebook.ads.Ad;
 import com.facebook.ads.InterstitialAdListener;
+import com.google.android.gms.ads.AdError;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.FullScreenContentCallback;
+import com.google.android.gms.ads.LoadAdError;
+import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.JsonHttpResponseHandler;
 import com.unity3d.ads.IUnityAdsLoadListener;
@@ -34,6 +42,10 @@ import java.util.List;
 import cz.msebera.android.httpclient.Header;
 
 public class Splash extends AppCompatActivity {
+
+    public static com.google.android.gms.ads.interstitial.InterstitialAd google_InterstitialAd;
+
+    public static String privacy_policy;
     public static String extra_switch_1;
     public static String extra_switch_2;
     public static String extra_switch_3;
@@ -367,7 +379,7 @@ public class Splash extends AppCompatActivity {
                             /**
                              * Skip Country
                              */
-
+                            privacy_policy = response.getString("privacy_policy");
 
                             /**
                              * Extra data
@@ -620,21 +632,17 @@ public class Splash extends AppCompatActivity {
                 public void onError(Ad ad, com.facebook.ads.AdError adError) {
                     FailsAds("f");
                 }
-
                 @Override
                 public void onAdLoaded(Ad ad) {
                     if (interstitialAd_FB_1 != null) {
                         interstitialAd_FB_1.show();
                     } else {
-
                         FailsAds("f");
-
                     }
                 }
 
                 @Override
                 public void onAdClicked(Ad ad) {
-
                 }
 
                 @Override
@@ -648,11 +656,9 @@ public class Splash extends AppCompatActivity {
 
             FailsAds("f");
         }
-
     }
 
     private static void GoogleAppOpen() {
-
         if (MyProHelperClass.getGoogle_OpenADS() != null && !MyProHelperClass.getGoogle_OpenADS().isEmpty()) {
             try {
                 isShowOpen = false;
@@ -687,19 +693,16 @@ public class Splash extends AppCompatActivity {
             } catch (Exception e) {
                 e.printStackTrace();
             }
-
         } else {
             if (checkAppOpen) {
                 checkAppOpen = false;
                 FailsAds("g");
             }
         }
-
     }
 
     private static void CustomOpenAds() {
         NextIntent(contextx, intentx);
-
 
       /*  new Handler().postDelayed(new Runnable() {
             @Override

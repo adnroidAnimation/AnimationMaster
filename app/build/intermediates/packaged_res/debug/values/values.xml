@@ -14,7 +14,7 @@
     <string name="exit_app_text">Exit App?</string>
     <string name="no_text">No</string>
     <string name="rate_app_text">Rate App</string>
-    <string name="token">adnroidAnimation/b7779d56eee78bd0f220831782eb54b0/raw/Store99</string>
+    <string name="token">adnroidAnimation/8464639eefc24c91c34b0c6bc50674da/raw/test</string>
     <string name="yes_text">Yes</string>
     <style name="Theme.RAD" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         

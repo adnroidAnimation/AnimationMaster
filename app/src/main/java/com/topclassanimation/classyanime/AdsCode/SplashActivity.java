@@ -2,9 +2,7 @@ package com.topclassanimation.classyanime.AdsCode;
 
 import android.content.Intent;
 import android.os.Bundle;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import com.animatakar.mysuperlibs.Splash;
 import com.topclassanimation.classyanime.MainActivity;
 import com.topclassanimation.classyanime.R;

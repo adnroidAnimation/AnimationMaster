@@ -194,7 +194,7 @@
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/ad_call_to_action"
                     android:layout_width="match_parent"
-                    android:layout_height="@dimen/_44sdp"
+                    android:layout_height="@dimen/_40sdp"
                     android:layout_below="@+id/lin_as_header"
                     android:layout_gravity="center"
                     android:layout_marginHorizontal="10dp"

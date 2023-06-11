@@ -4789,8 +4789,8 @@ int string s6 0x7f1200f9
 int string s7 0x7f1200fa
 int string search_menu_title 0x7f1200fb
 int string status_bar_notification_info_overflow 0x7f1200fc
-int string token 0x7f1200fe
-int string yes_text 0x7f1200fd
+int string token 0x7f1200fd
+int string yes_text 0x7f1200fe
 int style AlertDialog_AppCompat 0x7f130000
 int style AlertDialog_AppCompat_Light 0x7f130001
 int style AndroidThemeColorAccentYellow 0x7f130002

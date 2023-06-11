@@ -1153,8 +1153,7 @@ public class NextAnimation {
     public static void NextIntent() {
         MyProHelperClass.stopLoader(dialog);
         if (main_intent == null) {
-            // main_context.finish();
-             return;
+             main_context.finish();
         } else {
             if (intent_status == 0) {
                 main_context.startActivity(main_intent);
