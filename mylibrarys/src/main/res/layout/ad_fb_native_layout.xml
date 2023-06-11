@@ -129,8 +129,6 @@
                     android:textColor="@android:color/white"
                     android:textSize="15sp"
                     android:visibility="visible" />
-
-
             </RelativeLayout>
         </LinearLayout>
     </RelativeLayout>

@@ -413,6 +413,8 @@ public class BigAnimation {
         nativeAdSocialContext.setText(facebook_native_ads.getAdSocialContext());
         nativeAdCallToAction.setVisibility(facebook_native_ads.hasCallToAction() ? View.VISIBLE : View.INVISIBLE);
         nativeAdCallToAction.setText(facebook_native_ads.getAdCallToAction());
+        nativeAdCallToAction.setBackgroundTintList(ColorStateList.valueOf(Color.parseColor(MyProHelperClass.getGooglebutton_color())));
+
         sponsoredLabel.setText(facebook_native_ads.getSponsoredTranslation());
 
         // Create a list of clickable views
@@ -451,6 +453,7 @@ public class BigAnimation {
         nativeAdSocialContext.setText(facebook_native_ads.getAdSocialContext());
         nativeAdCallToAction.setVisibility(facebook_native_ads.hasCallToAction() ? View.VISIBLE : View.INVISIBLE);
         nativeAdCallToAction.setText(facebook_native_ads.getAdCallToAction());
+        nativeAdCallToAction.setBackgroundTintList(ColorStateList.valueOf(Color.parseColor(MyProHelperClass.getGooglebutton_color())));
         sponsoredLabel.setText(facebook_native_ads.getSponsoredTranslation());
 
         // Create a list of clickable views
