@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context=".InternetErrorActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_300sdp"
+        android:scaleType="fitXY"
+        android:src="@drawable/no_internet_bg" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_160sdp"
+        android:layout_marginTop="@dimen/_50sdp"
+        android:src="@drawable/titidu" />
+
+    <TextView
+        android:id="@+id/maintitile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/subtitile"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="No Internet Connection"
+        android:textColor="#1C1C1C"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/subtitile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/mina_bbtn"
+        android:layout_centerInParent="true"
+        android:paddingHorizontal="@dimen/_10sdp"
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="You are not connected to the internet.\nmake sure Wi-Fi is on, Airplane mode is off &amp; mobile data is on and try again."
+        android:textColor="#7C7C7C"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/mina_bbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginBottom="@dimen/_60sdp"
+        android:background="@drawable/exit_btn"
+        android:gravity="center"
+        android:onClick="check_internet"
+        android:paddingHorizontal="@dimen/_50sdp"
+        android:text="Try Again"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:translationZ="@dimen/_5sdp" />
+
+</RelativeLayout>

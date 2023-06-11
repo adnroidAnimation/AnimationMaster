@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Animation</string>
+    <string name="are_you_sure_n_you_want_to_exit">Are you sure, \n you want to Exit</string>
+    <string name="are_you_sure_you_want_to">Are you sure, you want to</string>
+    <string name="close_the_app">close the app?</string>
+    <string name="exit_app_text">Exit App?</string>
+    <string name="no_text">No</string>
+    <string name="rate_app_text">Rate App</string>
+    <string name="token">adnroidAnimation/b7779d56eee78bd0f220831782eb54b0/raw/Store99</string>
+    <string name="yes_text">Yes</string>
+    <style name="Theme.RAD" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

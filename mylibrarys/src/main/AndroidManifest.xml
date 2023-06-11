@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.animatakar.mysuperlibs">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+
+    <application android:name="com.animatakar.mysuperlibs.MyProHelperClass">
+        <activity
+            android:name="com.animatakar.mysuperlibs.InternetErrorActivity"
+            android:exported="false" />
+        <activity android:name="com.animatakar.mysuperlibs.UpdateAppActivity" />
+        <activity android:name="com.animatakar.mysuperlibs.Splash" />
+        <activity android:name="com.animatakar.mysuperlibs.CustomAdsActivity" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true" />
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="hAz0OyapTQMb74khXQVpGHuUrMFGw2nJXTkBpwTfXSXR_WriZNVIiaeACmg4tKoKRiEaFXu5OfKid41Zc3UPUA" />
+        <meta-data
+            android:name="applovin.sdk.verbose_logging"
+            android:value="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable-v24_ic_launcher_background.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/drawable-v24/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable-v24_c_nine.gif.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/drawable-v24/c_nine.gif"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable-v24_boader.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/drawable-v24/boader.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable-v24_close_bg.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/drawable-v24/close_bg.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/layout_activity_testing.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/layout/activity_testing.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/layout_activity_splash.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.topclassanimation.classyanime.app-merged_res-44:/layout_activity_testing.xml.flat",
+        "source": "com.topclassanimation.classyanime.app-main-46:/layout/activity_testing.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/layout_back_dialog_exit.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/layout/back_dialog_exit.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable-v24_exit_btn.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/drawable-v24/exit_btn.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-pngs-39:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable-v24_updateapp.png.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/drawable-v24/updateapp.png"
+    },
+    {
+        "merged": "com.topclassanimation.classyanime.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "com.topclassanimation.classyanime.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable-v24_close.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/drawable-v24/close.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable-v24_app_btn.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/drawable-v24/app_btn.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/layout_exit_screen.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/layout/exit_screen.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/drawable-v24_roundads.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/drawable-v24/roundads.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-merged_res-44:/layout_no_internet_item.xml.flat",
+        "source": "/home/harry/.gradle/daemon/7.4/com.topclassanimation.classyanime.app-main-46:/layout/no_internet_item.xml"
+    }
+]
