@@ -1,0 +1,134 @@
+<changelist name="Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]" date="1689861518529" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 20/07/23, 7:28 pm [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin" />
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/graph.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" />
+    <option name="AFTER_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/graph1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_1.jar" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_1.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_1.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/values_values.arsc.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/values_values.arsc.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/values_values.arsc.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_2.jar" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_2.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_2.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/classes1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="mylibrarys/build/.transforms/65d08ab4d8dba0b825432d488bce247d/transformed/classes/classes.dex" />
+    <option name="AFTER_PATH" value="mylibrarys/build/.transforms/65d08ab4d8dba0b825432d488bce247d/transformed/classes/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/classes2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/BuildConfig.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/BuildConfig.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/BuildConfig.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="mylibrarys/build/intermediates/runtime_library_classes_jar/debug/classes.jar" />
+    <option name="AFTER_PATH" value="mylibrarys/build/intermediates/runtime_library_classes_jar/debug/classes.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/classes.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/MainActivity.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/MainActivity.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/MainActivity.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/topclassanimation/classyanime/BuildConfig.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/topclassanimation/classyanime/BuildConfig.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/BuildConfig.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeLibDexDebug/10/classes.dex" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_0.jar" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_0.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_0.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/apk/debug/app-debug.apk" />
+    <option name="AFTER_PATH" value="app/build/outputs/apk/debug/app-debug.apk" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/app-debug.apk" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" />
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/androidResources" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/classes3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/classes4.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_3.jar" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_3.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/43a54c09f17f99e145ac633c0313c65b8fe8798d44993bb98bd4bac9f23b67a6_3.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/TestingActivity.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/TestingActivity.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/TestingActivity.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/AdsCode/ExitScreen$2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/AdsCode/ExitScreen$2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/ExitScreen$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/classes31.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/AdsCode/ExitScreen.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/AdsCode/ExitScreen.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/ExitScreen.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/AdsCode/ExitScreen$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/topclassanimation/classyanime/AdsCode/ExitScreen$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/ExitScreen$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_07_23,_7_28_pm_[Changes]/classes21.dex" />
+  </binary>
+</changelist>
